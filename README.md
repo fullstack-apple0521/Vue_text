@@ -80,10 +80,6 @@ export default {
 
 > Please check the [Documentation](https://textcomplete.iline.co/) more
 
-## Contributors
-
-- [Jiajian Chan](http://github.com/jcc)
-
 ## Thanks
 
 - [Textcomplete](https://github.com/yuku-t/textcomplete)
